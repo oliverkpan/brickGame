@@ -5,3 +5,6 @@ I am striving to understand the fundamentals of OOP and I wanted to create a sma
 ## Here is an image of the game so far. (Super simple objects)
 
 ![Preview](https://github.com/oliverkpan/brickGame/blob/master/game.png)
+
+### Source
+Created with the help of [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
