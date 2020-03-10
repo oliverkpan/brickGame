@@ -14,7 +14,7 @@ public class Main {
 		
 		//Set restrictions
 		obj.setBounds(10,10,700,600);
-		obj.setTitle("Pop It!");
+		obj.setTitle("brickGame");
 		obj.setResizable(false);
 		obj.setVisible(true);
 		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
