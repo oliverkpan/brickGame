@@ -6,5 +6,9 @@ I am striving to understand the fundamentals of OOP and I wanted to create a sma
 
 ![Preview](https://github.com/oliverkpan/brickGame/blob/master/game.png)
 
+## Implemented objects and counter
+
+![Game](https://github.com/oliverkpan/brickGame/blob/master/game2.png)
+
 ### Source
 Created with the help of [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
